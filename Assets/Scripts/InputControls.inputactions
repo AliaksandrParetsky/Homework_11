@@ -1,0 +1,34 @@
+{
+    "name": "InputControls",
+    "maps": [
+        {
+            "name": "CubeControl",
+            "id": "a5a10f2c-73d7-4eba-9c8a-c1e3186256bd",
+            "actions": [
+                {
+                    "name": "StopCube",
+                    "type": "Button",
+                    "id": "68bc2a5d-e291-45c0-b6e8-170fcbfecc08",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "01678f55-3196-4875-a3c7-52ec7caecce1",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StopCube",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
