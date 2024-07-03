@@ -98,9 +98,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c7b083914774f4e98423b27069a168, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  widthCube: 3
-  lengthCube: 0.5
-  heightCube: 3
+  widthCube: 1
+  lengthCube: 0.1
+  heightCube: 1
 --- !u!114 &2102626051168626613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aa544cdb386fc9468bb6adcf3bd989b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 2
 --- !u!114 &3792858165251412589
 MonoBehaviour:
   m_ObjectHideFlags: 0

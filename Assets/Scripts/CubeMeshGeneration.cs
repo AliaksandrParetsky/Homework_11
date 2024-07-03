@@ -4,9 +4,9 @@ using UnityEngine;
 [RequireComponent (typeof(MeshRenderer))]
 public class CubeMeshGeneration : MonoBehaviour
 {
-    [SerializeField] float widthCube;
-    [SerializeField] float lengthCube;
-    [SerializeField] float heightCube;
+    private float widthCube = 1.0f;
+    private float lengthCube = 0.1f;
+    private float heightCube = 1.0f;
 
     public float LengthCubeY
     {
